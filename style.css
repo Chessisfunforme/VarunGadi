@@ -1,0 +1,41 @@
+body{
+	font-family: "Segoe UI";
+	font-size: 14px;
+}
+
+#Logo{
+	position: relative;
+	width: 900;
+	height: 237;
+}	
+
+#Navigation{
+	position: absolute;
+	width: 150;
+	height: 300;
+	top: 250;
+	left: 15;
+}
+
+#UnpublishedNavigation{
+	position: relative;
+	width: 150;
+}
+
+#Content{
+	position: absolute;
+	width:800;
+	height: 300;
+	top: 230;
+	left: 230;
+}
+
+a{
+	color: red;
+	text-decoration: none;
+}
+
+a:hover{
+	color: green;
+	text-decoration: underline;
+}
