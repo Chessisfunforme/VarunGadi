@@ -2,7 +2,7 @@
 Email=request("Email")
 Password=request("Password")
 
-If Email="ravibujji173" and Password="chessisfunforme1020" Then
+If Email="trickster" and Password="nice try, wrong file" Then
 	session("Login")="Verified"
 	response.redirect("admin.asp?M=Login Is Successful!")
 Else
